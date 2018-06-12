@@ -15,3 +15,10 @@ What command do you use to create a branch? $ git branch [branch-name]
 What command do you use to use a different branch? $ git checkout [branch-name]
 Why would you want to use a branch other than the default master?  The alternate branch allows for changes to take place without affecting the master branchs code.
 
+Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged.
+If you were managing a project and there are two versions of the same file that have changes that work. 
+You should make a pull request if you are working on someone elses code and are requesting a merge. 
+
+What command do you use to send all of the work that you've done locally to your remote repository? $ git push [remote] [branch]
+
+
